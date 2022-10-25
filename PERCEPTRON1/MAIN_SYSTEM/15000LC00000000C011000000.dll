@@ -1,0 +1,2 @@
+@echo
+start GLOBAL NEURAL NETWORK.py

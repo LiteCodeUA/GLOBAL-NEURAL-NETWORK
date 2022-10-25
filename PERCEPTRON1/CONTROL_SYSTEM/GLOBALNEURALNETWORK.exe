@@ -1,0 +1,2 @@
+@echo off
+start Нейромережа (перцептрон) PERCEPTRON1.py
